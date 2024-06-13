@@ -1,0 +1,4071 @@
+{
+    "hats": [
+        {
+            "resource": "hats0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "annamaja hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0001.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "zylus hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "anniefuschia hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "aphex hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "aplatypuss hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0005.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": " asexual hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0006.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ash_1 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0007.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ash_1 hat flipped",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0008.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "axilla hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0009.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ben hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0010.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "besty hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0011.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "bisexual hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0012.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "bloody hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0013.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "boba hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0014.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "breeh hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0015.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "brittzey hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0016.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "cheesy hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0017.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "chilledchaos hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0018.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "clara hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0019.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dawko hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0020.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dizzilulu hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0021.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "duncan hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0022.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dyto hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0023.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ellum hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0024.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "falcone_1 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0025.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "freyzplayz hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0026.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "garbage hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0027.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "gay hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0028.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "glitch hat",
+            "author": "PhasmoFireGod"
+        },
+        {
+            "resource": "hats0029.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "harrie hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0030.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jamobo hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0031.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jose hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "hats0032.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "junkyard hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0033.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "justjames hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0034.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "kara hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "hats0035.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "mama hat",
+            "author": "PhasmoFireGod"
+        },
+        {
+            "resource": "hats0036.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "kay hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0037.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "lawhoo hat",
+            "author": "LaWhooligan"
+        },
+        {
+            "resource": "hats0038.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "lewis hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0039.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "lexiemarie hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0040.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "mindy hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "hats0041.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "nerdout hat",
+            "author": "Taamoy"
+        },
+        {
+            "resource": "hats0042.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "nilesy hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0043.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "nonbinary hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0044.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ozza hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "hats0045.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pansexual hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0046.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pastaroni hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "hats0047.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ped hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0048.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "phoebe hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0049.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ravs hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0050.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "razzbowski hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0051.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "rhythian hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0052.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "shubble hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0053.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "sips hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0054.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "stumpy hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0055.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "toby hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0056.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "tomcraven hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0057.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "trans_1 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0058.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "trans_2 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0059.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "trans_3 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0060.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "trans_4 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0061.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vikram_1 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0062.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vikram_2 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0063.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "wolfabelle hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0064.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "zeroyalviking hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0065.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "falcone hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0066.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pinkee hat",
+            "author": "PhasmoFireGod"
+        },
+        {
+            "resource": "hats0067.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "racoon hat",
+            "author": "PhasmoFireGod"
+        },
+        {
+            "resource": "hats0068.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "firegod hat",
+            "author": "PhasmoFireGod"
+        },
+        {
+            "resource": "hats0069.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "slushie hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0070.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dad hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0071.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "platty halloween hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0072.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "cheesy halloween hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0073.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "chilled halloween hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0074.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "zeroyalviking halloween hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0075.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "fox hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0076.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "frog hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0077.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pig hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0078.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "owl hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0079.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "witch hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0080.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "goldfish hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0081.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ctulhu hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0082.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "spresourceer hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0083.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "crocodile hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0084.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "A Knoife! hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0085.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Blush-stache hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0086.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "BTW hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0087.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Flower Fedora hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0088.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gigawolf hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0089.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Good Aura hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0090.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Guardian Angel hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0091.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Horned Angel hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0092.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kartodk Evil hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0093.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kartodk Sus hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0094.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lavish hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0095.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lie-canthrope hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0096.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Overgrown hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0097.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Press X hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0098.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Rico's Navy hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0099.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sav Beanie hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0100.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sparkles! hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0101.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Specs n' Antlers hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0102.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Stylish Witch hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0103.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tropic Beach hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0104.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ash_2 hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0105.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "blood_bourne_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0106.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "goku_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0107.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "queenie_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0108.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "tissue_box_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0109.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "your_mom_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0110.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "mantis_shrimpling_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0111.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "luffy_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0112.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "carnage_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0113.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "stebon_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0114.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "harley_quinn_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0115.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "weasel_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0116.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dino_egg_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0117.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "skater_girl_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0118.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "sims_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0119.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "shrimp_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0120.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pepe_hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0121.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dwarf hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0122.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "rooster hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0123.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "monster hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0124.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cyreni's Pony hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0125.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Oreos hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0126.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Soyciety hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0127.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tsedtacle hat",
+            "author": "Tsed"
+        },
+        {
+            "resource": "hats0128.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Big Shot hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0129.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "L hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0130.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Menacing hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0131.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "No U hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0132.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Okey hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0133.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "sans hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0134.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Squresource hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0135.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wimpy Kresource hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0136.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cros Style hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0137.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Novasauros hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0138.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Peppercorny hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0139.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Rainy Day hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0140.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Scarf Gang hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0141.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "So Devilish hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0142.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Huntress hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0143.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "You're so Salty! hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0144.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "LayZFox hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0145.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Impostor Spark hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0146.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "X-Ray hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0147.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pap hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0148.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cocoa hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0149.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Doused hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0150.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Fluffy Boi hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0151.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hot Saucy hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0152.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ImPAWstor hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0153.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MMMM hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0154.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bad Aura hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0155.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dunce hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0156.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gay-ny Day hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0157.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Marionette hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0158.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Random Ronnie hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0159.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Disconnected hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0160.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lunch hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0161.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Peace Never! hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0162.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Amcam hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0163.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Book Of Sus hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0164.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Caramilk hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0165.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DJSmiles hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0166.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DrunkyPoo hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0167.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HoliGhost hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0168.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ImpTongue hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0169.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jessie hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0170.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "L hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0171.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Paws hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0172.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Potterhead hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0173.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lil Swift hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0174.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sableye hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0175.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sheriff hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0176.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Steampunk hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0177.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Steampunk Look hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0178.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sushub hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0179.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Susotion hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0180.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bee hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0181.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "T-Rex hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0182.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Maresource hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0183.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Koji hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0184.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ellum hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0185.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Koji Maresource hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0186.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jeremy hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0187.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "kDoolz hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0188.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "tenma hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0189.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jukebox hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0190.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "PK Fire hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0191.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Termy Boi hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0192.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tippy hat",
+            "author": "LayZ"
+        },
+        {
+            "resource": "hats0193.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Akatsuki hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0194.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bearded Grizzly hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0195.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dumbdog hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0196.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Eyeball hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0197.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Frresourceay Night Funkin hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0198.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Frresourceay Night Funkin hat 2 ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0199.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jerm hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0200.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Milky Joe hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0201.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Monkeh hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0202.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pink hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0203.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sugarcat hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0204.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Zombie hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0205.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Iron Man hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0206.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Thanos hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0207.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sresourcee Arms hat",
+            "author": "Ghost_ejims"
+        },
+        {
+            "resource": "hats0208.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kara hat 2 ",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "hats0209.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bergmeister hat",
+            "author": "Bergmeister"
+        },
+        {
+            "resource": "hats0210.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chrome hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0211.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dabi hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0212.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "James hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0213.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Meowth hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0214.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mudkip hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0215.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Patrick Jenner hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0216.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ravenclaw hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0217.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Taxi hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0218.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "The Witcher hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0219.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Blue Dream hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0220.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "BrittanyP95 Treasure hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0221.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chibiusa hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0222.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cynda hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0223.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chicky Tenders hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0224.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chicky Tenders Sauce hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0225.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Demogorgan hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0226.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Detective hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0227.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Fairy hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0228.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "FengPJ hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0229.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Freckled Phenom hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0230.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Golden Boi hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0231.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hold My Beer hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0232.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Huntress hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0233.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kate hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0234.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lil Too Much hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0235.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Liv Chipz Periodt hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0236.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mac Vibes hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0237.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "McRib hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0238.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Nurse hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0239.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Periodt hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0240.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Petty Perkins hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0241.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pilborg It Me hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0242.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sailor Steve hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0243.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sweetroll hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0244.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Taste The Rainbow hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0245.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tux hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0246.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Undead Marah hat",
+            "author": "Sweetrolled"
+        },
+        {
+            "resource": "hats0247.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kn0vis hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0248.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Anya hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0249.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pizza hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0250.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gaara hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0251.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hinata hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0252.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MartiMoo hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0253.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Roman hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0254.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Purple Shark hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0255.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Umbreon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0256.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Virgil hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0257.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sresourcee Arms hat 2 ",
+            "author": "Ghost_ejims"
+        },
+        {
+            "resource": "hats0258.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Rawbuhbuh hat",
+            "author": "NightRaresourceerTea"
+        },
+        {
+            "resource": "hats0259.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HeyMcGurk hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0260.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tuskspicious hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0261.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bunnies hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0262.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mushroom hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0263.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Red Panda hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0264.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wizard hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0265.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Courtilly hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0266.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mods hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0267.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "NoiBat hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0268.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shmuelzys Piss Bucket hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0269.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Zavvygamer hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0270.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bill Cipher hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0271.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Blossom hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0272.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bubbles hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0273.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Buttercup hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0274.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dell hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0275.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gengar hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0276.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Grumpy Cat hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0277.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ksmac3 hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0278.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pennywise hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0279.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Redneck hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0280.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Red Body hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0281.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pink Body hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0282.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Yellow Body hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0283.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Nogla hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0284.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wildcat hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0285.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Olive Kruzadar hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0286.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Red Kruzadar hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0287.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Koala hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0288.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Raptor hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0289.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kangaroo hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0290.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HeckMuffins hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0291.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HecksAmphy hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0292.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ophresourceian hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0293.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Rikiisnotaferet hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0294.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SpiceRat hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0295.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Spicesjolt hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0296.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "RicKafe hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0297.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Caracupcake hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0298.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cosmicara hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0299.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Crabcake hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0300.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "McMayhem hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0301.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MissJersey hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0302.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Quonk Gun hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0303.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SlackATK hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0304.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "AstasApple hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0305.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CaptainStoppy hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0306.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Casper hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0307.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DawnsHotMama hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0308.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DSCGluttony hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0309.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "FairysBlueFox hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0310.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Japanda hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0311.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lanaboo hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0312.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Panda Prresourcee hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0313.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shiny Psyduck hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0314.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Snorlax hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0315.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tessany Beauty hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0316.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Xallysahoney hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0317.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shmuelzy hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0318.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Inmouth hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0319.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Teeth hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0320.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Thing hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0321.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tongue hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0322.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Xeno hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0323.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sresourcee Arms hat 2 alt ",
+            "author": "Ghost_ejims"
+        },
+        {
+            "resource": "hats0324.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Basedkm hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0325.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CaspersGrovyle hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0326.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CowboyMav hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0327.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DigDuck hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0328.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DougDimadome hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0329.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "JapandasSkitty hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0330.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Magikarp hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0331.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Nresourceoking hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0332.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "QuirtysPolywhirl hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0333.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Salamence hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0334.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "WolvsMimikyu hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0335.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CoriKasarak hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0336.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jigglypuff hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0337.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "KojiSkunk hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0338.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wailord hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0339.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Boar hat ",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0340.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Creepy Doll hat ",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0341.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Raven hat ",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0342.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Trenchcoat hat ",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0343.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Blaziken hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0344.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Carriemello hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0345.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Paradox Monkey hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0346.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GooseTroop hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0347.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jerry hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0348.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Loweye hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0349.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lucas hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0350.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "NewHeckMuffins hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0351.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "OogieBoogie hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0352.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "RikisFerret hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0353.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tinkerbell hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0354.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Troubella hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0355.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Valak hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0356.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bait hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0357.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chickenz hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0358.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HeckMeowstic hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0359.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "HecksBunBun hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0360.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MxJosie hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0361.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SpiceMeowstic hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0362.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gfro hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0363.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GfrosLopunny hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0364.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MarylinMonroe hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0365.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SailorMoon hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0366.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SusCrown hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0367.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chocoberry hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0368.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ChocoPun hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0369.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gomez hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0370.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wednesday hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0371.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Michael Myers hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0372.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Strawberry hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0373.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Yey Billy hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0374.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Breakfast Boba hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0375.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Death hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0376.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Jester hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0377.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Mage hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0378.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Pirate hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0379.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "G7erard hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0380.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "COTC hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0381.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Facehugger hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0382.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Maks hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0383.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Xenomorph Queen hat ",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0384.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cruella hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0385.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Moth hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0386.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Necro hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0387.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shaman hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0388.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Assassin hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0389.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Death hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0390.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "bgcbigs hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0391.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jshooa hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0392.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lechonk hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0393.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "PossibleBear hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0394.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Angel hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0395.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Demon hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0396.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Red Rresourceing Hood hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0397.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Sheriff hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0398.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Chef hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0399.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Evil Queen hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0400.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "SpicesPawmont hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0401.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Gnome hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0402.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Krampus hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0403.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Santa hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0404.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CandyCane hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0405.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GingerbreadMan hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0406.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Present hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0407.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Reindeer hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0408.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Santa hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0409.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Snowman hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0410.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GingerbreadHouse hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0411.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "NohsAraquanio hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0412.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bodybuilder hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0413.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bosa hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0414.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cluckers hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0415.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Manatee hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0416.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MikeDotTV hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0417.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mr T hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0418.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Salmon hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0419.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tatsugiri hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0420.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wonton hat ",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0421.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Heckinmoo hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0422.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "JarrelBun hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0423.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jessica hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0424.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MartiMoo hat 2 ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0425.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Oilers hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0426.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "TechnicalMoon hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0427.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gresourcedawresource hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0428.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kurtgi hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0429.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ThisIsFine hat ",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0430.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Platy Mayo hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0431.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Princess Zeach hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0432.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Firemage hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0433.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Peter Griffin hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0434.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hovpool hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0435.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Spresourceerhov hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0436.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Espeon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0437.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Evee hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0438.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Flareon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0439.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Glaceon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0440.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Leafeon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0441.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sylveon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0442.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Umbreon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0443.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Vaporeon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0444.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jolteon hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0445.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CB hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0446.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dangorpa hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0447.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Galaxybrain hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0448.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "IchigoHollow hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0449.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tessany Beauty Warrior hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0450.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pikabubs hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0451.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Slayed hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "hats0452.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "BlackCat hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0453.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GingerCat hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0454.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Crab hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0455.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GooglyEyes hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0456.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Qthulhu hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0457.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tiki hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0458.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jb hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0459.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "WingsBodyBuilder hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0460.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "5up hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0461.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Angel Is Kimi hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0462.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DK hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0463.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dumbdog hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0464.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ellum hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0465.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hafu Penguin hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0466.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Koji hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0467.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Smajor hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0468.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Steve hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0469.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vGumiho hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0470.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "xChocobars hat",
+            "author": "Rum"
+        },
+        {
+            "resource": "hats0471.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "AfroBush hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0472.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Chai hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0473.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MrBeast hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0474.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "NeonBuns hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0475.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Snow Leopard hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0476.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Unicorn Hairband hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0477.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wheelchair hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0478.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gligar hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0479.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Manbag hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0480.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "MinecraftSteve hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0481.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ninmuffin hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0482.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ribbonman hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0483.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sora hat",
+            "author": "Ophresourceian"
+        },
+        {
+            "resource": "hats0484.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "CabociTV hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0485.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cat hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0486.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cream Unicorn hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0487.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Zod hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0488.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Poseresourceon's Crown hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0489.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "The True King hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0490.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Titans hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0491.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Wreath hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0492.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Golden Wreath hat",
+            "author": "SugaNope"
+        },
+        {
+            "resource": "hats0493.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Antoinette hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0494.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Golem hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0495.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Little Jason hat",
+            "author": "Pigoletto"
+        },
+        {
+            "resource": "hats0496.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sendit hat",
+            "author": "Sarinjin"
+        },
+        {
+            "resource": "misc0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ZeroXFusionz hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "wrench_f hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vince_foot_front hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "misc0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vince_front hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "misc0007.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "stitch hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0008.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "shrek hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0009.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "revmeerkat_front hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0010.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "reenyy hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0011.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "rayc hat",
+            "author": "tori#1277"
+        },
+        {
+            "resource": "misc0015.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Paule_front hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "misc0020.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "groot hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0021.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "gorillaphent_f hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "misc0022.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "gh00stie_f hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "myhats0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pot hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0001.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "box hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "eye hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "fundy hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "sykkuno hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0005.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "5up hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0006.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "crumb hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0007.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "sussy hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0008.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "penguin hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0009.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "dolphin hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0010.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "skull hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0011.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "croissant hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0012.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "platypus hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0013.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "vines hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0014.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "5up scarf hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0015.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "baby hat",
+            "author": "acron"
+        },
+        {
+            "resource": "myhats0016.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "raflp hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "wendy hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0001.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "waffle hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Voteme hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "squirrel hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "shiki hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0005.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "rollups hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0006.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "rocky hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0007.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pepe hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0008.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "penguinface_front hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0009.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "pancakes hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0010.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "masayoshi hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0011.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "leah hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0012.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "kris hat",
+            "author": "tori#1277"
+        },
+        {
+            "resource": "standard0013.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jodi hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0014.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "jerm hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0015.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "janet hat",
+            "author": "tori#1277"
+        },
+        {
+            "resource": "standard0016.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": " hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0017.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "hafu hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0018.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "giacomo hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0019.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Frog hat redesign (original by Ressnie)",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0020.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "frenchtoast hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0021.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "fire hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0022.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "crunchy hat",
+            "author": "TheLastShaymin"
+        },
+          {
+            "resource": "standard0023.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "couve hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0024.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "charizard hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0025.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "buffyhelmet hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0026.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "buffyarms hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0027.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "buffy hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0028.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "brizzyears hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0029.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "br00d hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0030.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "blaustoise hat",
+            "author": "tori#1277"
+        },
+        {
+            "resource": "standard0031.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "bird hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0032.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "birb hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0033.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "bestcrewmate hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0034.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "basetrade_3 hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0035.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "basetrade_2 hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0036.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "basetrade_1 hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0037.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "ash hat",
+            "author": ""
+        },
+        {
+            "resource": "standard0038.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "_hat",
+            "author": "TheLastShaymin"
+        },
+        {
+            "resource": "standard0039.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Snapper hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0040.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Slippy hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0041.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Frog hat",
+            "author": "Ressnie"
+        },
+        {
+            "resource": "standard0042.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jessie Monkey hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0043.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sunflower hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0044.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Juicebox hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0045.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Crow hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0046.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ghost hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0047.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pumpkin hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0048.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cat Helmet hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0049.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cat Helmet With Apron hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0050.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Zeta Mark V hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0051.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Billy Butcher hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0052.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Queen Maeve hat",
+            "author": "Little Doo Doo"
+        },
+        {
+            "resource": "standard0053.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Starlight hat",
+            "author": "Little Doo Doo"
+        }
+    ]
+}
