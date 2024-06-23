@@ -3843,7 +3843,7 @@
             "name": "crunchy hat",
             "author": "TheLastShaymin"
         },
-          {
+        {
             "resource": "standard0023.png",
             "condition": "None",
             "package": "Community Hats",
@@ -4059,6 +4059,768 @@
             "package": "Community Hats",
             "name": "Starlight hat",
             "author": "Little Doo Doo"
+        },
+        {
+            "resource": "king0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Durak",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "king0001.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Slime",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "king0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kvas",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "king0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Van",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "king0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "S1fon",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "king0005.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Moryak",
+            "author": "TheTrueKing"
+        },
+        {
+            "resource": "Gir",
+            "name": "Gir",
+            "author": "H"
+        },
+        {
+            "resource": "Potato.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Potato",
+            "author": "H"
+        },
+        {
+            "resource": "Killjoy.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Killjoy",
+            "author": "H"
+        },
+        {
+            "resource": "Owl.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Owl",
+            "author": "H"
+        },
+        {
+            "resource": "Dino.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dino",
+            "author": "H"
+        },
+        {
+            "resource": "Vyze.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Vyze",
+            "author": "H"
+        },
+        {
+            "resource": "Aika.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Aika",
+            "author": "H"
+        },
+        {
+            "resource": "Drachma.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Drachma",
+            "author": "H"
+        },
+        {
+            "resource": "Angel.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Angel",
+            "author": "H"
+        },
+        {
+            "resource": "Angry.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Angry",
+            "author": "H"
+        },
+        {
+            "resource": "Antennae.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Antennae",
+            "author": "H"
+        },
+        {
+            "resource": "Arrow.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Arrow",
+            "author": "H"
+        },
+        {
+            "resource": "Banger.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Banger",
+            "author": "H"
+        },
+        {
+            "resource": "Bear skin.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bear skin",
+            "author": "H"
+        },
+        {
+            "resource": "Beard hat.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Beard hat",
+            "author": "H"
+        },
+        {
+            "resource": "Beard manbun.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Beard manbun",
+            "author": "H"
+        },
+        {
+            "resource": "Bee.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bee",
+            "author": "H"
+        },
+        {
+            "resource": "Berry.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Berry",
+            "author": "H"
+        },
+        {
+            "resource": "Big brain.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Big brain",
+            "author": "H"
+        },
+        {
+            "resource": "Bowler hat.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bowler hat",
+            "author": "H"
+        },
+        {
+            "resource": "Bulb head.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Bulb head",
+            "author": "H"
+        },
+        {
+            "resource": "Butterfly.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Butterfly",
+            "author": "H"
+        },
+        {
+            "resource": "Cake.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cake",
+            "author": "H"
+        },
+        {
+            "resource": "Cat Beard.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cat Beard",
+            "author": "H"
+        },
+        {
+            "resource": "Cat Hair.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cat Hair",
+            "author": "H"
+        },
+        {
+            "resource": "Clean.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Clean",
+            "author": "H"
+        },
+        {
+            "resource": "Cone.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cone",
+            "author": "H"
+        },
+        {
+            "resource": "Crewmates.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Crewmates",
+            "author": "H"
+        },
+        {
+            "resource": "Cursed.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Cursed",
+            "author": "H"
+        },
+        {
+            "resource": "Dandy.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dandy",
+            "author": "H"
+        },
+        {
+            "resource": "Devil.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Devil",
+            "author": "H"
+        },
+        {
+            "resource": "Disco Ball.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Disco Ball",
+            "author": "H"
+        },
+        {
+            "resource": "Dizzy.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dizzy",
+            "author": "H"
+        },
+        {
+            "resource": "DJ.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "DJ",
+            "author": "H"
+        },
+        {
+            "resource": "Dota.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Dota",
+            "author": "H"
+        },
+        {
+            "resource": "Elephant.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Elephant",
+            "author": "H"
+        },
+        {
+            "resource": "Elf.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Elf",
+            "author": "H"
+        },
+        {
+            "resource": "Emo.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Emo",
+            "author": "H"
+        },
+        {
+            "resource": "Eyepatch.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Eyepatch",
+            "author": "H"
+        },
+        {
+            "resource": "Ezlo.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ezlo",
+            "author": "H"
+        },
+        {
+            "resource": "Face Mask.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Face Mask",
+            "author": "H"
+        },
+        {
+            "resource": "Factorio.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Factorio",
+            "author": "H"
+        },
+        {
+            "resource": "Fishbowl.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Fishbowl",
+            "author": "H"
+        },
+        {
+            "resource": "Flame Hair.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Flame Hair",
+            "author": "H"
+        },
+        {
+            "resource": "Flame.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Flame",
+            "author": "H"
+        },
+        {
+            "resource": "Flower Crown.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Flower Crown",
+            "author": "H"
+        },
+        {
+            "resource": "GooGoo eyes.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "GooGoo eyes",
+            "author": "H"
+        },
+        {
+            "resource": "Gun.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gun",
+            "author": "H"
+        },
+        {
+            "resource": "Harley.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Harley",
+            "author": "H"
+        },
+        {
+            "resource": "Homer.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Homer",
+            "author": "H"
+        },
+        {
+            "resource": "Hoodie.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hoodie",
+            "author": "H"
+        },
+        {
+            "resource": "Hotdog.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Hotdog",
+            "author": "H"
+        },
+        {
+            "resource": "Icecream.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Icecream",
+            "author": "H"
+        },
+        {
+            "resource": "resourceea.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "resourceea",
+            "author": "H"
+        },
+        {
+            "resource": "Jester.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jester",
+            "author": "H"
+        },
+        {
+            "resource": "Lampshade.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Lampshade",
+            "author": "H"
+        },
+        {
+            "resource": "Mech.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mech",
+            "author": "H"
+        },
+        {
+            "resource": "Medusa.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Medusa",
+            "author": "H"
+        },
+        {
+            "resource": "Moustache.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Moustache",
+            "author": "H"
+        },
+        {
+            "resource": "Ninja Turtle.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Ninja Turtle",
+            "author": "H"
+        },
+        {
+            "resource": "Old Man.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Old Man",
+            "author": "H"
+        },
+        {
+            "resource": "Penguin.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Penguin",
+            "author": "H"
+        },
+        {
+            "resource": "Phone.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Phone",
+            "author": "H"
+        },
+        {
+            "resource": "Pikachu.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pikachu",
+            "author": "H"
+        },
+        {
+            "resource": "Pirate.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pirate",
+            "author": "H"
+        },
+        {
+            "resource": "Pizza.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pizza",
+            "author": "H"
+        },
+        {
+            "resource": "Platypus.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Platypus",
+            "author": "H"
+        },
+        {
+            "resource": "Press.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Press",
+            "author": "H"
+        },
+        {
+            "resource": "Prom Queen.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Prom Queen",
+            "author": "H"
+        },
+        {
+            "resource": "Purple Hair.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Purple Hair",
+            "author": "H"
+        },
+        {
+            "resource": "Rainbow.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Rainbow",
+            "author": "H"
+        },
+        {
+            "resource": "Shark Head.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shark Head",
+            "author": "H"
+        },
+        {
+            "resource": "Sheba.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sheba",
+            "author": "H"
+        },
+        {
+            "resource": "Shower.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Shower",
+            "author": "H"
+        },
+        {
+            "resource": "Smilie.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Smilie",
+            "author": "H"
+        },
+        {
+            "resource": "Snoopy.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Snoopy",
+            "author": "H"
+        },
+        {
+            "resource": "Steampunk.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Steampunk",
+            "author": "H"
+        },
+        {
+            "resource": "Sunglasses.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sunglasses",
+            "author": "H"
+        },
+        {
+            "resource": "Sushi.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Sushi",
+            "author": "H"
+        },
+        {
+            "resource": "Tear.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tear",
+            "author": "H"
+        },
+        {
+            "resource": "Tiger King.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tiger King",
+            "author": "H"
+        },
+        {
+            "resource": "Tinfoil.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tinfoil",
+            "author": "H"
+        },
+        {
+            "resource": "Tiny Top Hat.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Tiny Top Hat",
+            "author": "H"
+        },
+        {
+            "resource": "Turret.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Turret",
+            "author": "H"
+        },
+        {
+            "resource": "Twilek.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Twilek",
+            "author": "H"
+        },
+        {
+            "resource": "Umbrella.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Umbrella",
+            "author": "H"
+        },
+        {
+            "resource": "Unicorn Clouds.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Unicorn Clouds",
+            "author": "H"
+        },
+        {
+            "resource": "Upper class.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Upper class",
+            "author": "H"
+        },
+        {
+            "resource": "Villain.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Villain",
+            "author": "H"
+        },
+        {
+            "resource": "Yoshi egg.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Yoshi egg",
+            "author": "H"
+        },
+        {
+            "resource": "vu_hat0000.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Panda hat",
+            "author": "Kalmah"
+        },
+        {
+            "resource": "vu_hat0001.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gok'Us hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0002.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gok'Us SSJ hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0003.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Black Gok'Us hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0004.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Black Gok'Us SSJ hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0005.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gok'Us SSG hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0006.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Gok'Us MMI hat",
+            "author": "Gusgus"
+        },
+        {
+            "resource": "vu_hat0200.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Pikach'Us hat",
+            "author": "KaKashi"
+        },
+        {
+            "resource": "vu_hat0201.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Mario hat",
+            "author": "KaKashi"
+        },
+        {
+            "resource": "vu_hat0202.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "demogorgon",
+            "author": "KaKashi"
+        },
+        {
+            "resource": "vu_hat0300.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Kirby hat",
+            "author": "Blocky"
+        },
+        {
+      
+            "resource": "vu_hat0500.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Jotaro Kujo hat",
+            "author": "Sagemo"
+        },
+        {
+            "resource": "vu_hat0501.png",
+            "condition": "None",
+            "package": "Community Hats",
+            "name": "Carlo Leonhardt hat",
+            "author": "Sagemo"
         }
     ]
 }
