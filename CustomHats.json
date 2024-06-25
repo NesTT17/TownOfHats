@@ -4437,24 +4437,10 @@
             "author": "H"
         },
         {
-            "resource": "Harley.png",
-            "condition": "None",
-            "package": "Community Hats",
-            "name": "Harley",
-            "author": "H"
-        },
-        {
             "resource": "Homer.png",
             "condition": "None",
             "package": "Community Hats",
             "name": "Homer",
-            "author": "H"
-        },
-        {
-            "resource": "Hoodie.png",
-            "condition": "None",
-            "package": "Community Hats",
-            "name": "Hoodie",
             "author": "H"
         },
         {
@@ -4493,24 +4479,10 @@
             "author": "H"
         },
         {
-            "resource": "Mech.png",
-            "condition": "None",
-            "package": "Community Hats",
-            "name": "Mech",
-            "author": "H"
-        },
-        {
             "resource": "Medusa.png",
             "condition": "None",
             "package": "Community Hats",
             "name": "Medusa",
-            "author": "H"
-        },
-        {
-            "resource": "Moustache.png",
-            "condition": "None",
-            "package": "Community Hats",
-            "name": "Moustache",
             "author": "H"
         },
         {
